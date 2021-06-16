@@ -10,3 +10,5 @@ require (
 	go.mongodb.org/mongo-driver v1.5.3
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 )
+
+replace userinfo/helpers => /helpers
